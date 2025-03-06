@@ -1,7 +1,3 @@
-Aqui está o **README.md** para documentar sua POC no GitHub:
-
----
-
 ## **📌 POC 03 - Usando AWS S3 para Armazenar Arquivos**  
 
 ### **🎯 Objetivo**  
